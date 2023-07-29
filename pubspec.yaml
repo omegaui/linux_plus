@@ -1,6 +1,6 @@
 name: linux_plus
 description: Utility to provide more details about the host platform.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/omegaui/linux_plus
 
 
